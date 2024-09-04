@@ -71,5 +71,9 @@ El proyecto se divide en dos scripts principales, un archivo para los parámetro
 
 Este proyecto está licenciado bajo la [MIT License](LICENSE).
 
+## Contacto
+
+Para cualquier consulta sobre este proyecto, puedes contactar a través de [limortesantiago@gmail.com].
+- **Desarrollador**: [Santiago Limorte](https://www.linkedin.com/in/limortesantiago/)
 
 
