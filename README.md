@@ -65,7 +65,7 @@ El proyecto se divide en dos scripts principales, un archivo para los parámetro
 
 ## Imágen de la interfaz en funcionamiento
 
-![Interfaz](ruta/al/archivo_mano_final.png)
+![Interfaz](interface.png)
 
 ## Licencia
 
